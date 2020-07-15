@@ -1,2 +1,2 @@
-# foreger.github.io
-Rick.Plus
+# Ricky.Plus
+Ricky.Plus

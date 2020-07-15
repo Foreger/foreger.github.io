@@ -1,0 +1,26 @@
+# Welcome to Chinaxiang' personal page!
+lang: zh_CN
+title: 黄瑞奇的个人网站
+author: Ricky.Plus
+email: i@ricky.plus
+description: > 
+  黄瑞奇 - Ricky.Plus。
+baseurl: ""
+url: "http://ricky.plus"
+github_username:  Ricky
+twitter_username: ""
+
+minima:
+  date_format: "%b %-d, %Y"
+
+timezone: Asia/Shanghai
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 15
+paginate_path: "/blog/p:num"
